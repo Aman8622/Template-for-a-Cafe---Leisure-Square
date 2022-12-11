@@ -5,7 +5,7 @@ HTML
 CSS
 JAVASCRIPT
 
-# Backend:
+# Database/Backend:
 PHP
 MYSQL
 
